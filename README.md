@@ -4,7 +4,7 @@
 
 Projeto desenvolvido como base de fixação nos conceitos de condicionais.
 
-[Clique aqui para acessar](https://naillath.github.io/displayHours/)
+
 
 ## Tecnologias
 
